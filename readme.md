@@ -1,0 +1,1 @@
+training a basic GAN on fashionMNIST with lightning
